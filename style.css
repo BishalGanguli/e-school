@@ -29,6 +29,7 @@ p {
 }
 .illustraion-img img{
     width: 100%;
+    margin-bottom: 50px ;
 }
 .box-topis {
     
@@ -49,6 +50,7 @@ h4 {
 }
 .calendar-people-logo {
     width: 23px;
+
 }
 .card {
     padding: 15px;
